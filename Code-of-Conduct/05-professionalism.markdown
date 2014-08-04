@@ -20,6 +20,6 @@ Explicit sexual topics, sexual touching, or sexual imagery are not appropriate
 for any event or related function. It is always off topic, it is not inclusive
 or sensitive to all the different groups which may be present at events.
 
-If an event will by its nature have sexual topics, touching or imagery, the
-Linux community's name, GTALUG or TLUG should should not be included and
-invitations should not be sent to the official public channels of the community.
+If a third party event will knowingly encourage or participate in any of the 
+above activities, the community's name, GTALUG or TLUG should not be included 
+and invitations should not be sent using the official public channels.
