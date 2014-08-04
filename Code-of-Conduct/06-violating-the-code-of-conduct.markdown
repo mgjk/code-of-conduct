@@ -10,10 +10,9 @@ Participants violating these rules may be asked to leave the event by
 organizing members, or asked to no longer participate in any events by vote of
 the executive committee.
 
-This is not a zero tolerance policy. The members of the community are not
-trained judges, trained councilors, police officers or security guards. Zero
-tolerance places the burden of immediate judgement on the people involved, and
-ignores the important values of education and mutual respect in the community.
+This is not a zero tolerance policy. Zero tolerance places the burden of 
+immediate judgement on the people involved, and ignores the important values 
+of education and mutual respect in the community.
 
 We expect participants to follow these rules at all venues and related social
 events. The rules should not be seen as a burden, but as a point of pride of
