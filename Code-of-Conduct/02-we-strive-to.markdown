@@ -3,9 +3,8 @@
 ### Educate
 
 We strongly believe in education in all aspects of life. When in error
-technically, professionally or personally, we seek to teach people how to
-improve themselves rather than to quickly exclude them for their
-misunderstandings or mistakes.
+technically, professionally or personally, we seek to help people improve themselves
+rather than to quickly exclude them for their misunderstandings or mistakes.
 
 ### Be respectful
 
